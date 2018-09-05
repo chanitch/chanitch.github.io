@@ -29,6 +29,8 @@ body{
      border: 5px solid black;
 }
 figcaption{
+    display:block;
+     margin:0 auto;
       text-align:center;
 }
 img {
